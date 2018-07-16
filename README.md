@@ -39,6 +39,10 @@
  
  ![动态图片](https://blog.ibireme.com/wp-content/uploads/2015/11/bench_gif_demo.gif)
  
+[![百度图]](http:www.baidu.com)
+[百度图]:https://www.baidu.com/img/bd_logo1.png?where=super
+
+
 
 <a name="use_maidian"></a>**锚点**：
 跳转到当页的某处 `[名称](#className)`<br>
