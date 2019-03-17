@@ -48,7 +48,7 @@
 跳转到当页的某处 `[名称](#className)`<br>
  例如 `[锚点](#maodian)` [加粗锚点](#use_strong) 还要实现锚点的声明 `<a name= className></a>` 如 `<a name= use_strong> </a>`
 
-<a name="use_list"></a>**List列表**
+<a name="use_list">**List列表**</a>
 
 * 列表
 * 列表2  `*+空格+xxxx`
